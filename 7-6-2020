@@ -1,0 +1,15 @@
+Today Elise figured out how to upload our code through github so we can all access it. We are going to upload it to the core file created and all copy and past into whatever software we use to run this.
+
+The messages from Elise through discord are as follows:
+
+Hey everyone, I've been trying to figure out github this weekend so we can all get this core code started. What software do you guys use? I use visual studio as It allows alot more functionality, I have configured my terminal with visual studio so I can work on files directly from git. We should start to get this code done (atleast started) before our Tuesday meeting so when we all get together on call we can start to make some progress. If you guys are comfortable with using your terminal here are a list of commands you should use:
+
+Once opening you terminal open the folder you will be working from Then clone a repository to your PC ONCE AT THE BEGINNING: git clone https://github.com/ENGRteam19/Plan.git GitHub ENGRteam19/engr101-project-3-plan Plan for ENGR101 Project 3. Contribute to ENGRteam19/engr101-project-3-plan development by creating an account on GitHub.
+
+For example once you clone the file onto your terminal you will be prompted to log in with your info: PS C:\Users\User\Projects\Documents\Uni\ENGR\Assignments\Project3\engr101-project-3-plan> git config --global user.email "you@example.com" PS C:\Users\User\Projects\Documents\Uni\ENGR\Assignments\Project3\engr101-project-3-plan> git config --global user.name "Your Name" Set folder to project directory: CD C:\Users\User\Projects\Documents\Uni\ENGR\Assignments\Project3\engr101-project-3-plan Once you have signed in you should have the file when you use the command "git pull" If you've made changed to the code, save your file then use the "commit" command line to submit it in your local directory, "git push" will submit your file online BUT always check if the file has been worked on by someone else first by going "git pull" git commit -am "testing git" //push files to REMOTE repository git pull //check file online git push //submit your changed to the online file
+
+I have configured my geany to work with the project 3 code but not with visual, I use visual studio only for coding and use geany for the compiling/execution
+
+I will upload a doc file that will be for our team logs, We need to start writing this once we get together on Tuesday. We supposidly have to associate our logs with the first plan we made, actually keeping track and following our dates
+
+conclusions: alex and maddie both use geany
