@@ -1,0 +1,13 @@
+ Today Alex wrote notes on Arthurs lecture and uploaded them to discord for everyone to see. They are as follows:
+
+we have to update the wiki on everything we do (on git hub) so what we discuss here we have to copy and paste there too and we are not allowed to do a lot of work in the last 3 days we need to keep a log on how much individual time we spend on the project (individual log) they check everything through github so we need to be active there a lot too rather than just discord he said it's all good that we are all discussing thigs together rather than having one project manager and coder etc the report has to look GOOD and be presented nicely- proper fonts, paragraphs, diagrams etc How to start code: while loop when running robot, build and make (not compile) robot automatically moves forward robot should navigate using picture input config.txt = initial coords get pix in camera view which is name of the 'image' we want
+
+'1' is white, '0' is not as the robot moves forward, the 1s move out of pic frame decide how far away from centre of image the white pixels are
+
+look at lecture slides for line 18
+
+he suggests we dont do it like him and do functions instead
+
+break everything into functions
+
+challenge starts seeing a little bit of red if robot is perfectly in the middle, should be able to see both red walls on either side but dont count on that second wall always being there make robot not touch wall select right or left wall and stick to it follow it like the white line do not need to detect finish- only need to touch flag compl: its as if each pixel moved forward is like a new picture like the ruby hardest part is actually completion
